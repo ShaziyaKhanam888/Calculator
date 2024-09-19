@@ -17,3 +17,45 @@ h1{
     font-size: 2.5rem;
     color: white;
 }
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 600px;
+    border: 1px solid white;
+    margin: auto;
+    border-radius: 5px;
+}
+input{
+    padding: 10px;
+    width: 400px;
+    color: white;
+    background: transparent;
+    outline: 1px solid white;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    text-align: right;
+}
+
+button{
+  height: 80px;
+  width: 85px;
+  font-size: 1.4rem;
+  padding: 1.8rem;
+  text-align: center;
+  font-weight: 400;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.color{
+    color: #E65C19;
+    font-weight: 600;
+}
+.bg{
+    background-color: #E65C19;
+    color: white;
+     
+}
