@@ -32,5 +32,11 @@ This is a basic calculator web application built using **HTML**, **CSS**, and **
 
 ## Screenshots
 
-##Author
-Shaziya Khanam - Developer of the Calculator project.
+![Screenshot 2024-09-23 130141](https://github.com/user-attachments/assets/a2ba1155-1b6d-4ea1-b9a0-15b4904af9dd)
+
+![Screenshot 2024-09-23 125948](https://github.com/user-attachments/assets/6fdf6896-973c-4413-badc-fd08ea73c4ad)
+
+
+**##Author**
+
+ Shaziya Khanam - Developer of the Calculator project.
