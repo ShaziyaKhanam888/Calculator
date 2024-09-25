@@ -86,3 +86,13 @@ button{
         width: 65px;
     }
 }
+@media screen and (max-width: 430px){
+    .container{
+        height: 380px;
+        width: 350px;
+    }
+    button{
+        height: 50px;
+        width: 60px;
+    }
+}
