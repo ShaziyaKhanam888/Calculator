@@ -91,6 +91,9 @@ button{
         height: 380px;
         width: 350px;
     }
+    input{
+        width: 350px;
+    }
     button{
         height: 50px;
         width: 60px;
