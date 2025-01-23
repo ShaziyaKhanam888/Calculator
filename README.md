@@ -29,12 +29,7 @@ This is a basic calculator web application built using **HTML**, **CSS**, and **
 - `index.html`: Contains the structure and layout of the calculator.
 - `style.css`: Contains the styling rules for the calculator.
 - `script.js`: Contains the JavaScript logic for performing calculations.
-
-## Screenshots
-
-![Screenshot 2024-09-23 130141](https://github.com/user-attachments/assets/a2ba1155-1b6d-4ea1-b9a0-15b4904af9dd)
-
-![Screenshot 2024-09-23 125948](https://github.com/user-attachments/assets/6fdf6896-973c-4413-badc-fd08ea73c4ad)
+## Check Here : https://simple-calculator-2024.netlify.app/
 
 
 **##Author**
